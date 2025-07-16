@@ -1,0 +1,1 @@
+# Multi-Head-Temporal-Attention-Enhanced-Bi-LSTM-for-Human-Activity-Recognition
